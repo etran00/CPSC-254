@@ -1,3 +1,3 @@
 # CPSC-254
-Push test
-Commit #2
+- Push test
+- Commit #2
